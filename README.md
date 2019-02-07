@@ -4,4 +4,4 @@ A dashboard is a collection of resources assembled to create a single unified vi
 
 
 ## Overview
-![overview](P1.png)
+![overview](Dashboard_1.png)
