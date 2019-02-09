@@ -11,5 +11,14 @@ Conversions is your goal. What you want to achieve in this campaign? Then, you h
 
 ![overview](Dashboard_1.png)
 
-After you created useful metrics for you ads campaigns, I suggest that you can use the filter function in Tableau to synch devices and 
+After you created useful metrics for you ads campaigns, I suggest that you can use the filter function in Tableau to synch performances with devices and campaigns. Therefore, you can easily check results cross-device for certain campaign, such as 
 
+### Checking certain campaign (campaign 66)
+
+![overview](Dashboard_2.png)
+
+or
+
+### Focus on specific devices (tablet for example)
+
+![overview](Dashboard_3.png)
