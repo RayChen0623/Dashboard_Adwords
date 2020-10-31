@@ -22,3 +22,7 @@ or
 ### Focus on specific devices (mobile for example)
 
 ![overview](Dashboard_3.png)
+
+### Reference
+
+Dashboard v2: https://public.tableau.com/profile/ray.chen4649#!/vizhome/GoogleAdsDashboard_15879503399160/GoogleAdsDB
